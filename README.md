@@ -1,4 +1,4 @@
-# Real Time Face Recognition Collecting and Training Model
+# Real Time Face Recognition, Collecting and Training Model
 
 ## Overview
 The goal of this project is to create a real time racial recognition model. 
