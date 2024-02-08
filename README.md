@@ -1,9 +1,17 @@
-# OpenCV_Real_Time_Face_Recognition
- 
-There are 3 main steps to help build a real time face recognition application:
-1. Collect training dataset.
-2. Train the model.
+# Real Time Face Recognition Collecting and Training Model
+
+## Overview
+The goal of this project is to create a real time racial recognition model. 
+
+## Tools and Programming Language(s)
+OpenCV, Python, Haar Cascade Classifier
+
+## Process
+1. Collect training dataset by taking 30 pictures, obtaining a name and an integer.
+2. Train the model with all the data collected.
 3. Use the trained model to recognize real time webcam images and provide a name along with a accuracy score.
 
-I want to also acknowledge the help that I get from this article: https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348.
-It is an excellent source to learn the basics of object recognition. 
+## Acknowledgement
+https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348.
+
+
